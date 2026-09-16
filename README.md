@@ -9,5 +9,5 @@
 [![License](https://img.shields.io/badge/License-Private%20%2F%20Unlicensed-gray?style=flat-square)](#-license)
 
 🔗 **GitHub Repositories**:
-- 🌐 **Frontend**: [https://github.com/gminh715/vocab-mate-frontend](https://github.com/gminh715/vocab-mate-fe)
-- ⚙️ **Backend**: [https://github.com/gminh715/vocab-mate-backend](https://github.com/gminh715/vocab-mate-be)
+- 🌐 **Frontend**: [https://github.com/gminh715/vocab-mate-fe](https://github.com/gminh715/vocab-mate-fe)
+- ⚙️ **Backend**: [https://github.com/gminh715/vocab-mate-be](https://github.com/gminh715/vocab-mate-be)
